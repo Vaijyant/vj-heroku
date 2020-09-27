@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://vaijyant.herokuapp.com/</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/index.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/about.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/timeline.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/assets/rsc/Resume.pdf</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/experiments.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/workex/infosys.html</loc>
+    </url>
+
+
+    <url>
+        <loc>https://vaijyant.herokuapp.com/courses/SSDI.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/courses/SPL.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/courses/DbS.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/courses/KDD.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/courses/Algos.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/courses/IS.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/courses/MAD.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/courses/ML.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/courses/PISP.html</loc>
+    </url>
+    <url>
+        <loc>https://vaijyant.herokuapp.com/courses/CHBM.html</loc>
+    </url>
+</urlset>
